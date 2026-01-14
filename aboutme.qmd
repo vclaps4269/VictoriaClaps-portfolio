@@ -2,6 +2,20 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+![](images/Headshot-2.jpg){width="400"}
 
-For details, see the instructions. 
+My name is **Victoria Claps**, and I am a second year **Pharm.D./MPH** candidate. I completed my Bachelor of Science in Chemistry at Kennesaw State University.
+
+## Research
+
+Currently, I am not in any research lab. However, while at KSU, I investigated the potential for airport malaria in the state of Georgia as well as identified field-caught mosquitoes, reared mosquito colonies, and collected data from pollution experiments. I still have an interest in infectious disease epidemiology.
+
+## MADA and Experience in Data Analysis
+
+I am taking EPID 8060E to fulfill my core requirement for my epidemiology concentration. My statistics background consists of BIOS 7010E and EPID 7010E. While I have no prior coding experience, I am excited *(and a little intimidated)* by the opportunity to learn new skills and get experience using new software (e.g., Git/GitHub, Positron, R, Quarto) in this course.
+
+## Data Analysis Website
+
+My research lab at KSU had a special interest in arbovirology and to form mitigation strategies to prevent the spillover of arboviruses into the human population. Thus, this link is the CDC page about *Mosquito Surveillance Software* which offers downloadable tools that can be used by public health and mosquito control professionals to calculate infection rates and other surveillance data from mosquito pools.
+
+-   [Mosquito Surveillance Software \| CDC](https://www.cdc.gov/mosquitoes/php/toolkit/mosquito-surveillance-software.html)

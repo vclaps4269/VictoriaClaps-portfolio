@@ -11,7 +11,7 @@
     "href": "aboutme.html",
     "title": "About me",
     "section": "",
-    "text": "Add some text and a figure describing myself.\nFor details, see the instructions."
+    "text": "My name is Victoria Claps, and I am a second year Pharm.D./MPH candidate. I completed my Bachelor of Science in Chemistry at Kennesaw State University."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,26 @@
     "title": "My website and data analysis portfolio",
     "section": "",
     "text": "Feel free to change the text below any way you want 😁!\n\nHello\n\nAnd hello again\nWelcome to my website and data analysis portfolio.\n\nPlease use the Menu Bar above to look around.\nHave fun!"
+  },
+  {
+    "objectID": "aboutme.html#research",
+    "href": "aboutme.html#research",
+    "title": "About me",
+    "section": "Research",
+    "text": "Research\nCurrently, I am not in any research lab. However, while at KSU, I investigated the potential for airport malaria in the state of Georgia as well as identified field-caught mosquitoes, reared mosquito colonies, and collected data from pollution experiments. I still have an interest in infectious disease epidemiology."
+  },
+  {
+    "objectID": "aboutme.html#mada-and-experience-in-data-analysis",
+    "href": "aboutme.html#mada-and-experience-in-data-analysis",
+    "title": "About me",
+    "section": "MADA and Experience in Data Analysis",
+    "text": "MADA and Experience in Data Analysis\nI am taking EPID 8060E to fulfill my core requirement for my epidemiology concentration. My statistics background consists of BIOS 7010E and EPID 7010E. While I have no prior coding experience, I am excited (and a little intimidated) by the opportunity to learn new skills and get experience using new software (e.g., Git/GitHub, Positron, R, Quarto) in this course."
+  },
+  {
+    "objectID": "aboutme.html#data-analysis-website",
+    "href": "aboutme.html#data-analysis-website",
+    "title": "About me",
+    "section": "Data Analysis Website",
+    "text": "Data Analysis Website\nMy research lab at KSU had a special interest in arbovirology and to form mitigation strategies to prevent the spillover of arboviruses into the human population. Thus, this link is the CDC page about Mosquito Surveillance Software which offers downloadable tools that can be used by public health and mosquito control professionals to calculate infection rates and other surveillance data from mosquito pools.\n\nMosquito Surveillance Software | CDC"
   }
 ]
