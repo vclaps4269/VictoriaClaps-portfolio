@@ -14,7 +14,7 @@ website:
             file: starter-analysis-exercise/starter-analysis-exercise.qmd
     right:
       - icon: github 
-        href: https://github.com/vclaps4269/VictoriaClaps-portfolio        
+        href: https://github.com/vclaps4269/VictoriaClaps-portfolio.git        
 format:
   html:
     theme: journal
