@@ -16,7 +16,7 @@ website:
       - icon: github 
         href: https://github.com/vclaps4269/VictoriaClaps-portfolio.git        
 format:
-  html:
+  html: https://vclaps4269.github.io/VictoriaClaps-portfolio/aboutme.html
     theme: journal
     highlight: zenburn
     css: styles.css
